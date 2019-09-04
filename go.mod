@@ -11,6 +11,7 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.3.0 // indirect
 	github.com/Azure/go-autorest/autorest/to v0.3.0 // indirect
 	github.com/Azure/go-autorest/autorest/validation v0.2.0
+	github.com/Azure/go-autorest/tracing v0.5.0
 	github.com/Masterminds/semver v1.4.2 // indirect
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8 // indirect
 	github.com/hashicorp/go-azure-helpers v0.4.1
